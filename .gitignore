@@ -1,0 +1,5 @@
+secret.txt
+passwords.txt
+*.log
+node_modules/
+.env
